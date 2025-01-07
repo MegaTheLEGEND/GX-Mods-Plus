@@ -1,11 +1,11 @@
 {
   "description": "Add ambient music, typing sounds, and more to your browsing experience.",
   "manifest_version": 2,
-  "name": "GX Mods",
-  "short_name": "GXM",
+  "name": "GX Mods Plus",
+  "short_name": "GXMP",
   "version": "6.5.1",
   "developer": {
-    "name": "Noble (@frost@wolfdo.gg), Taylor (@tay@tech.lgbt)",
+    "name": "no",
     "url": "https://github.com/noblereign/GX-Mods-Extension"
   },
   "homepage_url": "https://github.com/noblereign/GX-Mods-Extension/",
@@ -50,7 +50,7 @@
         "dark": "icons/beasts-32.png",
         "size": 32
     }],
-    "default_title": "GX Mods",
+    "default_title": "GX Mods Plus",
     "default_popup": "popup/settings_menu.html"
   },
 
@@ -86,7 +86,7 @@
   ],
   "browser_specific_settings": {
     "gecko": {
-      "id": "gxmods@glacier.dog",
+      "id": "gxmp@somthing.dot",
       "strict_min_version": "77.0"
     },
     "gecko_android": {
